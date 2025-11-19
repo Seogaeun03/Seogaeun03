@@ -1,10 +1,10 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Create.%20Learn.%20Grow.%20🌱&colorA=c8a2ff&colorB=b083ff&colorC=9d6bff&fontColor=000000&stroke=bca7ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Create.%20Learn.%20Grow.%20&colorA=c8a2ff&colorB=b083ff&colorC=9d6bff&fontColor=000000&stroke=bca7ff&strokeWidth=1)
 
 <div>
   <!--Body-->
 
-  ## About Me
+  ## 🌱 About Me
   #### 저는 백엔드와 AI 기반 서비스 개발에 관심이 많습니다.<br/>
   #### 실제 문제를 해결하는 AI · RAG · Backend 서비스를 만드는 데 집중하고 있습니다.<br/>
   #### MIS (경영정보학) 전공, Dong-A University
