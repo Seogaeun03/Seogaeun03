@@ -61,8 +61,8 @@
 
 
   ## 📈 Github Stats
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   <div>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=Seogaeun03&show_icons=true&theme=default" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seogaeun03&layout=compact" />
