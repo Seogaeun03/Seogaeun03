@@ -4,7 +4,6 @@
 <div>
   <!--Body-->
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   ## About Me
   #### 저는 백엔드와 AI 기반 서비스 개발에 관심이 많습니다.<br/>
   #### 실제 문제를 해결하는 AI · RAG · Backend 서비스를 만드는 데 집중하고 있습니다.<br/>
@@ -62,7 +61,8 @@
 
 
   ## 📈 Github Stats
-  <div align="center">
+  <div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=Seogaeun03&show_icons=true&theme=default" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seogaeun03&layout=compact" />
