@@ -1,5 +1,6 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Create.%20Learn.%20Grow.%20&colorA=c8a2ff&colorB=b083ff&colorC=9d6bff&fontColor=000000&stroke=bca7ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=GaEun's%20GitHub&colorA=c8a2ff&colorB=b083ff&colorC=9d6bff&fontColor=000000&stroke=bca7ff&strokeWidth=1)
+
 
 <div>
   <!--Body-->
