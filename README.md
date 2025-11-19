@@ -4,10 +4,10 @@
 <div>
   <!--Body-->
 
-  ## 👀 About Me
-  #### 🙋🏻‍♀️ 저는 백엔드와 AI 기반 서비스 개발에 관심이 많은 개발자 서가은입니다.<br/>
-  #### 🔥 실제 문제를 해결하는 AI · RAG · Backend 서비스를 만드는 데 집중하고 있습니다.<br/>
-  #### 🎓 MIS (경영정보학) 전공, Dong-A University
+  ## About Me
+  #### 저는 백엔드와 AI 기반 서비스 개발에 관심이 많습니다.<br/>
+  #### 실제 문제를 해결하는 AI · RAG · Backend 서비스를 만드는 데 집중하고 있습니다.<br/>
+  #### MIS (경영정보학) 전공, Dong-A University
   <br/><br/>
 
   ## 🧱 Tech Stack
