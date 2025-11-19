@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=purple&height=20&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 <!--
 **Seogaeun03/Seogaeun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
