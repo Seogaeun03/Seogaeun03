@@ -27,35 +27,17 @@ Backend · AI Service · RAG · Web Application
 
 ## Tech Stack
 
-### Backend
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logoColor=white"/>
+**Backend / DB**  
+Java · Spring Boot · MyBatis · REST API · MySQL
 
-### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
+**AI / RAG**  
+RAG · LangChain · Upstage AI · Pinecone · LLM Service
 
-### AI / RAG
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Upstage%20AI-6A5ACD?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Service-111111?style=flat-square&logoColor=white"/>
+**Frontend**  
+Vue.js · JavaScript · HTML5 · CSS3
 
-### Frontend
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+**Tools**  
+Git · GitHub · GitLab · VSCode · IntelliJ IDEA · Notion
 
 <br/>
 
@@ -73,7 +55,7 @@ Backend · AI Service · RAG · Web Application
 - 프론트 화면 오류, 빈 상태 UI, 모달 레이어 문제 등 사용자 경험 개선
 - 로컬 저장소와 서버 저장 상태가 섞이는 문제를 분석하고 정리
 
-**Tech**
+**Tech**  
 `Java` `Spring Boot` `MyBatis` `MySQL` `Vue.js` `JavaScript` `REST API`
 
 <br/>
@@ -88,7 +70,7 @@ RAG 기반 대학 정보 검색 시스템
 - Django와 Streamlit 기반 웹 UI 구현
 - 학사, 장학, 교양 정보 등 사용자가 찾기 어려운 문서를 자연어로 검색할 수 있도록 설계
 
-**Tech**
+**Tech**  
 `Python` `Django` `Streamlit` `Upstage AI` `Pinecone` `RAG`
 
 <br/>
@@ -102,7 +84,7 @@ RAG 기반 대학 정보 검색 시스템
 - Streamlit 기반 챗 UI 구현
 - LLM 응답이 문서 근거를 기반으로 생성되도록 실험
 
-**Tech**
+**Tech**  
 `Python` `Streamlit` `LangChain` `Pinecone` `Upstage Solar`
 
 <br/>
@@ -122,10 +104,18 @@ RAG 기반 대학 정보 검색 시스템
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seogaeun03&theme=react-dark&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seogaeun03&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seogaeun03&theme=tokyo-night&hide_border=true)
 
 </div>
