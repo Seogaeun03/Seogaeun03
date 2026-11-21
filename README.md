@@ -8,7 +8,7 @@
 
 🏆 **우수상** 한짝 (SSAFY 특화 프로젝트) &nbsp;|&nbsp; 🏆 **우수상** AIVO (SSAFY 공통 프로젝트)
 
-📮 seogu0307@gmail.com
+🌐 **[포트폴리오 사이트 seogaeun03.github.io](https://seogaeun03.github.io)** &nbsp;|&nbsp; 📮 seogu0307@gmail.com
 
 ## 프로젝트
 
