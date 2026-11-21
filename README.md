@@ -1,4 +1,4 @@
-<img src="assets/banner.gif" alt="한짝 치장 세트 10벌이 달리는 그림" width="100%">
+<img src="assets/banner.png" alt="한짝 치장 세트 10벌이 달리는 그림" width="100%">
 
 # 서가은 | 게임 UI, 테크니컬 아트
 
