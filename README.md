@@ -1,121 +1,33 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=GaEun%20Seo&desc=Backend%20%7C%20AI%20Service%20%7C%20RAG&colorA=c8a2ff&colorB=b083ff&colorC=9d6bff&fontColor=111111&stroke=bca7ff&strokeWidth=1)
+# 안녕하세요, 서가은입니다
 
-<div align="center">
+**기획한 의도가 실제 화면과 동작으로 이어지도록 문제를 찾고 개선합니다.**
 
-# 안녕하세요, 서가은입니다.
+웹 서비스와 게임 프로젝트에서 화면 흐름, API 연동 점검, 게임 UI와 아트 제작·검수에 참여했습니다. 비교할 수 있는 기준을 만들고, 실제 화면·서버 응답·플레이로 결과를 확인하는 과정을 중요하게 생각합니다.
 
-백엔드와 AI 기반 서비스 개발에 관심이 있습니다.  
-사용자의 문제를 실제 서비스 흐름으로 해결하는 것을 좋아하며,  
-최근에는 **Spring Boot 기반 웹 서비스**, **AI/RAG**, **데이터 기반 추천 기능**을 중심으로 프로젝트를 진행하고 있습니다.
+경영정보학 전공 · 웹 서비스 · 게임 프로젝트 · AI 협업
 
-MIS 경영정보학 전공  
-Backend · AI Service · RAG · Web Application
+## 대표 프로젝트
 
-</div>
+| 프로젝트 | 소개 | 제가 참여한 일 |
+|---|---|---|
+| **[AIVO](https://github.com/Seogaeun03/aivo)** | 발표·면접 연습 피드백 서비스 | 프론트엔드 화면 흐름, 면접·폴더 API 연동 점검, 리포트 표시 검수 |
+| **[한짝](https://github.com/Seogaeun03/hanjjak)** | 캐릭터 성장·치장 수집을 즐기는 웹 방치형 게임 | 치장 아트 제작 방식, 모션·레이어 검수, 게임 화면 반영 점검과 QA |
+| **[DEVIANT](https://github.com/Seogaeun03/deviant)** | Unity 2D 액션 로그라이트 | 제작·장착 조작 흐름, 전투 체감 검수, HUD와 리소스 표현 기준 |
 
-<br/>
+각 저장소에서 실제 코드와 README를 볼 수 있습니다. 팀 전체 기능과 개인 담당 범위를 구분했고, 대표 사례는 **문제 → 판단 → 진행 과정 → 결과와 배운 점**으로 정리했습니다.
 
-## About Me
+## 이런 문제를 다뤘습니다
 
-- 사용자 흐름을 이해하고, 서비스 구조를 설계하는 것에 관심이 있습니다.
-- 백엔드 API, 데이터 저장 구조, 인증/권한, 프론트와의 연동 문제를 다루고 있습니다.
-- AI 기능은 단순 호출이 아니라, 실제 서비스 안에서 어떻게 자연스럽게 동작해야 하는지 고민합니다.
-- 프로젝트를 하며 기획, 화면 흐름, API 연동, 오류 분석과 개선까지 경험했습니다.
+- **AIVO** — 화면이 표시되는 것과 실제 API 연결 완료를 구분하고, 리포트 집계와 질문별 근거가 맞는지 점검했습니다. [사례 읽기](https://github.com/Seogaeun03/aivo/blob/main/docs/CASE_STUDY.md)
+- **한짝** — 같은 캐릭터에 장비가 일관되게 보이도록 고정 마네킹과 프레임별 검수 기준을 정했습니다. [사례 읽기](https://github.com/Seogaeun03/hanjjak/blob/main/docs/CASE_STUDY.md)
+- **DEVIANT** — HTML 프로토타입과 Unity 플레이를 비교하며 조작 순서와 전투 타이밍의 차이를 좁혔습니다. [사례 읽기](https://github.com/Seogaeun03/deviant/blob/main/docs/CASE_STUDY.md)
 
-<br/>
+## 함께 작업하는 방식
 
-## Tech Stack
+AI를 구현과 제작에 활용하며, 요구와 비교 기준을 구체화하고 결과를 검수합니다. 제 판단·직접 작업, AI가 수행한 구현, 팀원 기여를 구분해 설명합니다.
 
-**Backend / DB**  
-Java · Spring Boot · MyBatis · REST API · MySQL
+## 이전 경험
 
-**AI / RAG**  
-RAG · LangChain · Upstage AI · Pinecone · LLM Service
+TripMate 여행 협업 웹 서비스, CampusFinder 대학 정보 검색, 소득세 문서 기반 RAG 질의응답 프로젝트를 경험했습니다. 현재 공개 대표 프로젝트는 위 세 저장소에서 볼 수 있습니다.
 
-**Frontend**  
-Vue.js · JavaScript · HTML5 · CSS3
-
-**Tools**  
-Git · GitHub · GitLab · VSCode · IntelliJ IDEA · Notion
-
-<br/>
-
-## Projects
-
-### TripMate
-여행 일정, 앨범, 리포트, 예산 정산, 채팅 기능을 포함한 여행 협업 웹 서비스
-
-**주요 경험**
-- Spring Boot 기반 백엔드 API 구조 분석 및 개선
-- 사용자 인증/권한 검증 로직 개선
-- 게시글, 댓글, 좋아요, 북마크 등 사용자 기반 기능의 보안 흐름 점검
-- 여행 앨범, 리포트, 프로필 페이지 간 데이터 연동 문제 개선
-- 채팅방 정산 카드와 예산/정산 페이지 간 데이터 연결 개선
-- 프론트 화면 오류, 빈 상태 UI, 모달 레이어 문제 등 사용자 경험 개선
-- 로컬 저장소와 서버 저장 상태가 섞이는 문제를 분석하고 정리
-
-**Tech**  
-`Java` `Spring Boot` `MyBatis` `MySQL` `Vue.js` `JavaScript` `REST API`
-
-<br/>
-
-### CampusFinder
-RAG 기반 대학 정보 검색 시스템
-
-**주요 경험**
-- 대학 공식 문서 PDF를 기반으로 한 정보 검색 챗봇 구현
-- Upstage DocumentParse를 활용한 문서 파싱
-- Embedding 및 Pinecone 기반 벡터 검색 구조 구성
-- Django와 Streamlit 기반 웹 UI 구현
-- 학사, 장학, 교양 정보 등 사용자가 찾기 어려운 문서를 자연어로 검색할 수 있도록 설계
-
-**Tech**  
-`Python` `Django` `Streamlit` `Upstage AI` `Pinecone` `RAG`
-
-<br/>
-
-### Income Tax RAG Chatbot
-소득세 문서를 기반으로 한 RAG 질의응답 실습 프로젝트
-
-**주요 경험**
-- 세금 관련 문서를 벡터화하여 검색 기반 답변 구조 구현
-- History-Aware Retrieval 구조 실습
-- Streamlit 기반 챗 UI 구현
-- LLM 응답이 문서 근거를 기반으로 생성되도록 실험
-
-**Tech**  
-`Python` `Streamlit` `LangChain` `Pinecone` `Upstage Solar`
-
-<br/>
-
-## What I’m Focusing On
-
-- 안정적인 백엔드 API 설계
-- 사용자 인증과 권한 처리
-- 프론트엔드와 백엔드 데이터 흐름 연결
-- AI 기능을 실제 서비스에 자연스럽게 붙이는 방법
-- RAG 기반 문서 검색 서비스
-- 프로젝트 구조 정리와 오류 분석
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seogaeun03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seogaeun03&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seogaeun03&theme=tokyo-night&hide_border=true)
-
-</div>
+**[프로젝트 사례와 작업 방식 모아 보기](https://github.com/Seogaeun03/portfolio)**
