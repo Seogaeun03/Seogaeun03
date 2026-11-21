@@ -1,33 +1,69 @@
-# 안녕하세요, 서가은입니다
+<img src="assets/banner.png" alt="한짝 치장 세트 10벌" width="100%">
 
-**기획한 의도가 실제 화면과 동작으로 이어지도록 문제를 찾고 개선합니다.**
+# 서가은 | 게임 UI, 테크니컬 아트
 
-웹 서비스와 게임 프로젝트에서 화면 흐름, API 연동 점검, 게임 UI와 아트 제작·검수에 참여했습니다. 비교할 수 있는 기준을 만들고, 실제 화면·서버 응답·플레이로 결과를 확인하는 과정을 중요하게 생각합니다.
+**게임 화면의 규칙을 정하고, 생성 AI 그림을 게임 규격으로 길들입니다.**
 
-경영정보학 전공 · 웹 서비스 · 게임 프로젝트 · AI 협업
+해상도, 테두리, 색 수 같은 규칙을 먼저 정하고, 엔진 밖에서 여러 안을 비교해 고른 뒤, 게임 안에서 직접 플레이하며 마지막 픽셀까지 맞춥니다.
 
-## 대표 프로젝트
+🏆 **우수상** 한짝 (SSAFY 특화 프로젝트) &nbsp;|&nbsp; 🏆 **우수상** AIVO (SSAFY 공통 프로젝트)
 
-| 프로젝트 | 소개 | 제가 참여한 일 |
+📮 seogu0307@gmail.com
+
+## 프로젝트
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/Seogaeun03/deviant"><img src="assets/deviant.jpg" alt="DEVIANT 전투 화면"></a>
+<h3><a href="https://github.com/Seogaeun03/deviant">DEVIANT</a></h3>
+Unity 2D 액션 로그라이트<br>
+2026.10 ~ 진행 중, 6인<br>
+<b>팀장, 아트</b>
+<ul>
+<li>전투 HUD 도트 통일, 무기와 스킬 아이콘 54장</li>
+<li>제작과 장착 흐름 재설계 (입력 14회 → 7회)</li>
+<li>HTML 시험장에서 정하고 Unity로 옮기는 흐름</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Seogaeun03/hanjjak"><img src="assets/hanjjak.jpg" alt="한짝 전투 화면"></a>
+<h3><a href="https://github.com/Seogaeun03/hanjjak">한짝</a></h3>
+웹 방치형 게임, 실서비스 운영<br>
+2026.08 ~ 09, 6인, 우수상<br>
+<b>디자인 총괄, 치장 제작</b>
+<ul>
+<li>생성 AI 장비를 고정 마네킹에 입히는 파이프라인</li>
+<li>모션 네 칸을 한 장에 생성해 옷 흐름 해결</li>
+<li>몬스터 90종 1,800프레임 발끝 0px 정합</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/Seogaeun03/aivo"><img src="assets/aivo.jpg" alt="AIVO 리포트 화면"></a>
+<h3><a href="https://github.com/Seogaeun03/aivo">AIVO</a></h3>
+AI 발표 면접 코치 웹 서비스<br>
+2026.07 ~ 08, 6인, 우수상<br>
+<b>프론트엔드</b>
+<ul>
+<li>면접과 폴더 화면, 리포트 화면 구현</li>
+<li>가짜 데이터와 실제 API 연결을 구분해 검수</li>
+<li>리포트 그래프와 숫자 기준 정리</li>
+</ul>
+</td>
+</tr>
+</table>
+
+## 다루는 것
+
+| 분야 | 도구 | 어디서 |
 |---|---|---|
-| **[AIVO](https://github.com/Seogaeun03/aivo)** | 발표·면접 연습 피드백 서비스 | 프론트엔드 화면 흐름, 면접·폴더 API 연동 점검, 리포트 표시 검수 |
-| **[한짝](https://github.com/Seogaeun03/hanjjak)** | 캐릭터 성장·치장 수집을 즐기는 웹 방치형 게임 | 치장 아트 제작 방식, 모션·레이어 검수, 게임 화면 반영 점검과 QA |
-| **[DEVIANT](https://github.com/Seogaeun03/deviant)** | Unity 2D 액션 로그라이트 | 제작·장착 조작 흐름, 전투 체감 검수, HUD와 리소스 표현 기준 |
+| 게임 UI, 픽셀 아트 | 픽셀 편집기, Figma | DEVIANT HUD와 아이콘, 한짝 UI 전체 |
+| 아트 파이프라인 | 생성 AI 이미지, Python 이미지 처리 | 한짝 치장과 몬스터, DEVIANT 모션 |
+| 엔진 적용과 검수 | Unity | DEVIANT |
+| 프로토타입, 프론트엔드 | HTML, CSS, JavaScript, Vue 3 | DEVIANT 시험장, AIVO |
 
-각 저장소에서 실제 코드와 README를 볼 수 있습니다. 팀 전체 기능과 개인 담당 범위를 구분했고, 대표 사례는 **문제 → 판단 → 진행 과정 → 결과와 배운 점**으로 정리했습니다.
+## AI를 쓰는 방식
 
-## 이런 문제를 다뤘습니다
+AI에게는 그림과 모션 초안, 반복 계산, 코드 작성을 맡깁니다. 규격과 검수 기준, 고르기, 마지막 픽셀 손질, 게임 안에서의 확인은 제가 합니다. 각 저장소에는 제 판단, AI가 한 일, 팀원의 몫을 나눠 적었습니다.
 
-- **AIVO** — 화면이 표시되는 것과 실제 API 연결 완료를 구분하고, 리포트 집계와 질문별 근거가 맞는지 점검했습니다. [사례 읽기](https://github.com/Seogaeun03/aivo/blob/main/docs/CASE_STUDY.md)
-- **한짝** — 같은 캐릭터에 장비가 일관되게 보이도록 고정 마네킹과 프레임별 검수 기준을 정했습니다. [사례 읽기](https://github.com/Seogaeun03/hanjjak/blob/main/docs/CASE_STUDY.md)
-- **DEVIANT** — HTML 프로토타입과 Unity 플레이를 비교하며 조작 순서와 전투 타이밍의 차이를 좁혔습니다. [사례 읽기](https://github.com/Seogaeun03/deviant/blob/main/docs/CASE_STUDY.md)
-
-## 함께 작업하는 방식
-
-AI를 구현과 제작에 활용하며, 요구와 비교 기준을 구체화하고 결과를 검수합니다. 제 판단·직접 작업, AI가 수행한 구현, 팀원 기여를 구분해 설명합니다.
-
-## 이전 경험
-
-TripMate 여행 협업 웹 서비스, CampusFinder 대학 정보 검색, 소득세 문서 기반 RAG 질의응답 프로젝트를 경험했습니다. 현재 공개 대표 프로젝트는 위 세 저장소에서 볼 수 있습니다.
-
-**[프로젝트 사례와 작업 방식 모아 보기](https://github.com/Seogaeun03/portfolio)**
+**[프로젝트 사례 모아 보기](https://github.com/Seogaeun03/portfolio)**
