@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="한짝 치장 세트 10벌" width="100%">
+<img src="assets/banner.gif" alt="한짝 치장 세트 10벌이 달리는 그림" width="100%">
 
 # 서가은 | 게임 UI, 테크니컬 아트
 
@@ -31,7 +31,7 @@ Unity 2D 액션 로그라이트<br>
 <h3><a href="https://github.com/Seogaeun03/hanjjak">한짝</a></h3>
 웹 방치형 게임, 실서비스 운영<br>
 2026.08 ~ 09, 6인, 우수상<br>
-<b>디자인 총괄, 치장 제작</b>
+<b>팀장, 디자인 총괄, 치장 제작</b>
 <ul>
 <li>생성 AI 장비를 고정 마네킹에 입히는 파이프라인</li>
 <li>모션 네 칸을 한 장에 생성해 옷 흐름 해결</li>
