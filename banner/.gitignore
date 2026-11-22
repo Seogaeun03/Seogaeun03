@@ -1,0 +1,4 @@
+__pycache__/
+*.gif
+room_still.png
+fonts/*.ttf

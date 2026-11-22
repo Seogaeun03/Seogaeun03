@@ -1,11 +1,16 @@
-# 서가은
+<img src="assets/banner-room.png" alt="밤에 책상에서 도트를 찍는 사람과, 화면에서 그려져 밖으로 뛰쳐나온 분홍 말랑이" width="100%">
 
-**색과 움직임으로 화면의 감각을 만듭니다.**
+게임 UI 아티스트 서가은입니다. 요즘은 생성 AI로 뽑은 그림을 게임에 바로 쓸 수 있게 다듬는 일을 많이 해요.
 
-화면의 색감, 조작할 때의 반응, 정보를 읽는 순서를 살피며 더 자연스러운 화면을 만듭니다.
+<p>
+  <img src="assets/unity-original.svg" height="28" alt="Unity">&nbsp;
+  <img src="assets/html5-original.svg" height="28" alt="HTML">&nbsp;
+  <img src="assets/css3-original.svg" height="28" alt="CSS">&nbsp;
+  <img src="assets/javascript-original.svg" height="28" alt="JavaScript">&nbsp;
+  <img src="assets/vuejs-original.svg" height="28" alt="Vue">&nbsp;
+  <img src="assets/git-original.svg" height="28" alt="Git">
+</p>
 
-| [![AIVO 서비스 첫 화면](assets/profile-aivo-home.jpg)](https://github.com/Seogaeun03/aivo) | [![한짝 인게임 메인 화면](assets/profile-hanjjak-ingame.jpg)](https://github.com/Seogaeun03/hanjjak) | [![DEVIANT 보스 전투 HUD](assets/profile-deviant-hud.png)](https://github.com/Seogaeun03/deviant) |
-| :---: | :---: | :---: |
-| [AIVO](https://github.com/Seogaeun03/aivo) | [한짝](https://github.com/Seogaeun03/hanjjak) | [DEVIANT](https://github.com/Seogaeun03/deviant) |
+**[포트폴리오 사이트](https://seogaeun03.github.io)** &nbsp;/&nbsp; **[작업 사례](https://github.com/Seogaeun03/portfolio)** &nbsp;/&nbsp; seogu0307@gmail.com
 
-[작업과 실험 더 보기](https://github.com/Seogaeun03/portfolio)
+<sub>배너는 Python으로 한 점씩 찍었어요. [소스](banner/)</sub>
