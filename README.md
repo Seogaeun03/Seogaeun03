@@ -1,4 +1,4 @@
-<img src="assets/banner-room.png" alt="밤에 책상에서 도트를 찍는 사람과, 화면에서 그려져 밖으로 뛰쳐나온 분홍 말랑이" width="100%">
+<a href="https://seogaeun03.github.io"><img src="assets/banner-room.png" alt="밤에 책상에서 도트를 찍는 사람과, 화면에서 그려져 밖으로 뛰쳐나온 분홍 말랑이" width="100%"></a>
 
 게임 UI 아티스트 서가은입니다. 요즘은 생성 AI로 뽑은 그림을 게임에 바로 쓸 수 있게 다듬는 일을 많이 해요.
 
