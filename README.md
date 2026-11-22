@@ -1,12 +1,11 @@
-<img src="assets/pixel-studio.png" width="520" alt="SEO GAEUN — 게임과 UI를 좋아하는 픽셀 작업실">
+# 서가은
 
-### 안녕하세요, 서가은입니다 👋
+**색과 움직임으로 화면의 감각을 만듭니다.**
 
-- 🎮 게임과 UI, 인터랙션에 관심이 있습니다.
-- 🛠️ 웹 서비스와 게임을 팀으로 만들고, 화면과 플레이를 직접 확인해 왔습니다.
+화면의 색감, 조작할 때의 반응, 정보를 읽는 순서를 살피며 더 자연스러운 화면을 만듭니다.
 
-**사용해 본 기술·도구**
+| [![AIVO 서비스 첫 화면](assets/profile-aivo-home.jpg)](https://github.com/Seogaeun03/aivo) | [![한짝 인게임 메인 화면](assets/profile-hanjjak-ingame.jpg)](https://github.com/Seogaeun03/hanjjak) | [![DEVIANT 보스 전투 HUD](assets/profile-deviant-hud.png)](https://github.com/Seogaeun03/deviant) |
+| :---: | :---: | :---: |
+| [AIVO](https://github.com/Seogaeun03/aivo) | [한짝](https://github.com/Seogaeun03/hanjjak) | [DEVIANT](https://github.com/Seogaeun03/deviant) |
 
-<img src="assets/html5-original.svg" width="32" height="32" alt="HTML" title="HTML"> <img src="assets/css3-original.svg" width="32" height="32" alt="CSS" title="CSS"> <img src="assets/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript"> <img src="assets/vuejs-original.svg" width="32" height="32" alt="Vue" title="Vue"> <img src="assets/git-original.svg" width="32" height="32" alt="Git" title="Git"> <img src="assets/unity-original.svg" width="32" height="32" alt="Unity" title="Unity">
-
-[포트폴리오](https://github.com/Seogaeun03/portfolio)
+[작업과 실험 더 보기](https://github.com/Seogaeun03/portfolio)
