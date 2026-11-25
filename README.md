@@ -11,6 +11,6 @@
   <img src="assets/git-original.svg" height="28" alt="Git">
 </p>
 
-**[포트폴리오 사이트](https://seogaeun03.github.io)** &nbsp;/&nbsp; **[작업 사례](https://github.com/Seogaeun03/portfolio)** &nbsp;/&nbsp; seogu0307@gmail.com
+**[포트폴리오 사이트](https://seogaeun03.github.io)** &nbsp;/&nbsp; **[작업 사례](https://github.com/Seogaeun03/portfolio)** &nbsp;/&nbsp; **[장비 파이프라인 데모](https://seogaeun03.github.io/hanjjak-pipeline/)** &nbsp;/&nbsp; seogu0307@gmail.com
 
 <sub>배너는 Python으로 한 점씩 찍었어요. [소스](banner/)</sub>
